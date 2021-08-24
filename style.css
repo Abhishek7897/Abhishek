@@ -617,6 +617,7 @@ p {
 		top: 34px;
 		height: 98%;
 		width: 98%;
+		position :fixed;
 		
 	}
 	#about .col-right {
